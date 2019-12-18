@@ -1764,7 +1764,6 @@
   top:1072px;
   width:339px;
   height:75px;
-  color:#000000;
   text-align:left;
 }
 #u73_text {
@@ -1862,14 +1861,13 @@
   top:1147px;
   width:339px;
   height:75px;
-  color:#000000;
   text-align:left;
 }
 #u77_text {
   border-width:0px;
   position:absolute;
   left:2px;
-  top:14px;
+  top:6px;
   width:335px;
   word-wrap:break-word;
 }
